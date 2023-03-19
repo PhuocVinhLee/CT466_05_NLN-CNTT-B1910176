@@ -1,5 +1,5 @@
 <?php
-
+// sua lan dau tien
 if (!is_administrator()) {
 	echo '
 	<aside style="width: 100%;" class="p-3 mt-5">
