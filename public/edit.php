@@ -1,6 +1,6 @@
 <?php
 require_once '../bootstrap.php';
-// test lan 2
+// test lan 3
 use CT275\Labs\Contact;
 
 $contact = new Contact($PDO);
